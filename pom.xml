@@ -101,9 +101,9 @@
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>nexus-paypal-snapshot</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.174.167.10:8081/repository/paypal-uat-snapshot/</url>
+	      <url>http://54.226.104.222:8081/repository/paypal-team28/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
