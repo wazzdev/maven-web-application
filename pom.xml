@@ -95,13 +95,13 @@
 	
 	<distributionManagement>
 	    <repository>
-	      <id>nexus-paypal-releases</id>
+	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://54.226.104.222:8081/repository/paypal-team28/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus-paypal-snapshot</id>
+	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://54.226.104.222:8081/repository/paypal-team28/</url>
 	    </snapshotRepository>
