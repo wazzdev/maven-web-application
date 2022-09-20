@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	       <url>http://54.221.178.50:4000/repository/bts-snapshot/</url>
+	       <url>http://172.31.28.77:4000/repository/bts-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
