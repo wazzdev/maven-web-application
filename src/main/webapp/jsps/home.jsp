@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Landmark Software Solutions, Virginia, USA Office.</h1>
 <h1 align="center">We are developing and supporting quality software solutions to millions of clients all around the world.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+	We offer Training and Job preparation for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
